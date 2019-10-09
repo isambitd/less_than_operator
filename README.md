@@ -2,7 +2,9 @@
 
 if you have an array of n numbers where you have first m elements are decreasing and the last n-m elements are increasing
 This lib able to find the minimum in less time then the default functions available with python lib
+
 Time complexity is O(n/2)
+
 Spece Complexity is O(1)
 
 ```
