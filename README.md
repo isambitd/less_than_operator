@@ -17,3 +17,9 @@ $ python3
 >>>lessthanop.get_index(l)
 
 # 5
+
+>>>l= [6,5,4,3,2,1,2,3,4,5,6]
+
+>>>lessthanop.get_minimum(l)
+
+# 1
